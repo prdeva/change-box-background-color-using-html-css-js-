@@ -1,0 +1,28 @@
+.box{
+    background-color: red;
+    height: 200px;
+    width: 500px;
+    border-radius: 20px;
+}
+button{
+    margin-left: 40%;
+    margin-top: 20%;
+}
+.txt1{
+    
+    background-color: black;
+    color: white;
+   height: 20px;
+   width: 200px;
+   margin-left: 120px;
+   padding-bottom: 1%;
+   text-align: center;
+   /* margin: 100px; */
+
+   
+}
+.container{
+   margin: 100px;
+   margin-left: 450px;
+   margin-top: 200px; 
+}
